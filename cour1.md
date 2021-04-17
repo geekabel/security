@@ -1,5 +1,8 @@
 
- #### ligne de command linux pour apprentissage perso
+
+ ## ligne de command linux pour apprentissage perso
+ 
+ :rocket: Commande fréquente
  
 ```
  cat -n (nom du fichier) : affiche les numero de ligne d'un fichier texte
