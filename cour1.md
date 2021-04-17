@@ -26,7 +26,7 @@
       -c the total number of lines where the string pattern appears
 
  
- #### find all the file
+  #### find all the file
 
    - List all file in directory
        + find .
